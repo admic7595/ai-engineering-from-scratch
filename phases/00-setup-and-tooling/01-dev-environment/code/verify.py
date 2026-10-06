@@ -1,7 +1,7 @@
-"""Route-aware environment preflight for AI Engineering from Scratch.
+"""「AI Engineering from Scratch」のルートに応じた開発環境の事前準備。
 
-Lesson: phases/00-setup-and-tooling/01-dev-environment/docs/en.md
-Run this file from the repository root before starting a learning route.
+レッスン：phases/00-setup-and-tooling/01-dev-environment/docs/en.md
+学習ルートを開始する前に、リポジトリのルートディレクトリからこのファイルを実行してください。
 """
 
 from __future__ import annotations

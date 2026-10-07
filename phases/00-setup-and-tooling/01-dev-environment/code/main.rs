@@ -1,7 +1,6 @@
-// Lesson: Dev Environment (phase 00 / lesson 01)
-// Topic: verify that the four-layer toolchain (system, package managers, runtimes, libs)
-// is reachable from a Rust binary. Spawns each tool with `--version`, captures stdout,
-// reports PASS/FAIL plus the parsed version string. Stdlib only.
+// レッスン：開発環境（フェーズ 00 / レッスン 01）
+// トピック：4層からなるツールチェーン（システム、パッケージマネージャー、ランタイム、ライブラリ）が、Rustバイナリから呼び出せることを確認する。各ツールを `--version` オプション付きで起動し、標準出力を取得し、
+// PASS/FAIL の結果と解析されたバージョン文字列を報告する。標準ライブラリのみ。
 // Refs:
 //   https://doc.rust-lang.org/std/process/struct.Command.html
 //   https://doc.rust-lang.org/std/process/struct.Output.html
